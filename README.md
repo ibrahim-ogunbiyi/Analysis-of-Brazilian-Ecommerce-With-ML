@@ -27,3 +27,6 @@ From the exploratory data analysis we got to found out that there are customers 
 
 Also from the EDA we noticed that majority of customers make use of credit cards to order for their goods.
 ![download (3)](https://user-images.githubusercontent.com/73393430/181525559-3c8b82d8-c025-43e2-bc8c-5e5b85580c63.png)
+
+There are lot's of insights communicated in the Jupyter Notebook.
+
